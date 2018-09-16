@@ -28,7 +28,7 @@
 - 要素には1から番号が振られる(`添字(Index)`と呼ぶ)
 - 要素は`配列名[添字]`で呼び出す
 - `{1, 2, 3}`と宣言する
-![center 50%](D:\Stream\Slide\Lina-Programming-Seminar\004-loop\img\array.png)
+![center 50%](img/array.png)
 
 ---
 
@@ -78,7 +78,7 @@ arr[3][1]  -- 9
 - Luaではkeyの型は何でもOK
 - `{[key] = element,}`で宣言
   - keyが予約語、演算子にかぶらない文字列なら<br>`{key = elemet,}`と書ける
-![center 50%](D:\Stream\Slide\Lina-Programming-Seminar\004-loop\img\map.png)
+![center 50%](img/map.png)
 
 ---
 
@@ -116,7 +116,7 @@ map["x"] = 0
 
 ---
 
-# ![](D:\Stream\Slide\Lina-Programming-Seminar\004-loop\img\14f05690bfd503291c32fe4bf6652243.png)
+# ![](img/14f05690bfd503291c32fe4bf6652243.png)
 
 ---
 
@@ -321,12 +321,12 @@ sum: 55
 `4-2`
 - タートルを壁に当たるまで数えて進ませて、<br>壁にあたったら`oups >_<`と表示して終了しなさい
 
-![](D:\Stream\Slide\Lina-Programming-Seminar\004-loop\img\4-2.png)
+![](img/4-2.png)
 
 ---
 
 `4-3`
 - タートルを6x6の範囲でジグザグに動かし、戻ってくるプログラムを書きなさい
 - ただし、全てのマスで真下のブロックを`inspect`したデータを配列に保持して最後に丸石の数を数えて表示しなさい
-![40%](D:\Stream\Slide\Lina-Programming-Seminar\004-loop\img\4-3.png)
+![40%](img/4-3.png)
 

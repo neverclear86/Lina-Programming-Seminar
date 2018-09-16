@@ -57,7 +57,7 @@
 # ダウンロード
 https://atom.io/  ("Atom"で検索したら最初に出る)
 
-![](D:\Stream\Slide\LinaProgramming\001-helloworld\9832690d2dad0a5e0b543fd7f9b74de7.png)
+![](9832690d2dad0a5e0b543fd7f9b74de7.png)
 
 ---
 
