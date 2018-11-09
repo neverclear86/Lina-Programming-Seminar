@@ -439,6 +439,6 @@ not | not a | true or falseのみ返却
 
 # 2-4
 - タートルに将棋の桂馬の動きをさせなさい(右前)
-![center 45%](D:\Stream\Slide\LinaProgramming\002-sequential\2018-08-15_17.06.30.png)
+![center 45%](2018-08-15_17.06.30.png)
 
 ---
